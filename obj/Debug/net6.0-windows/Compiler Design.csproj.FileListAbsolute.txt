@@ -1,0 +1,17 @@
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\bin\Debug\net6.0-windows\Compiler Design.exe
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\bin\Debug\net6.0-windows\Compiler Design.deps.json
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\bin\Debug\net6.0-windows\Compiler Design.runtimeconfig.json
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\bin\Debug\net6.0-windows\Compiler Design.dll
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\bin\Debug\net6.0-windows\Compiler Design.pdb
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\obj\Debug\net6.0-windows\Compiler Design.csproj.AssemblyReference.cache
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\obj\Debug\net6.0-windows\Compiler_Design.frmMain.resources
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\obj\Debug\net6.0-windows\Compiler Design.csproj.GenerateResource.cache
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\obj\Debug\net6.0-windows\Compiler Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\obj\Debug\net6.0-windows\Compiler Design.AssemblyInfoInputs.cache
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\obj\Debug\net6.0-windows\Compiler Design.AssemblyInfo.cs
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\obj\Debug\net6.0-windows\Compiler Design.csproj.CoreCompileInputs.cache
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\obj\Debug\net6.0-windows\Compiler Design.dll
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\obj\Debug\net6.0-windows\refint\Compiler Design.dll
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\obj\Debug\net6.0-windows\Compiler Design.pdb
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\obj\Debug\net6.0-windows\Compiler Design.genruntimeconfig.cache
+C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\obj\Debug\net6.0-windows\ref\Compiler Design.dll
